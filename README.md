@@ -1,0 +1,2 @@
+# scripts
+Windows activation scripts
